@@ -12,8 +12,8 @@
 
 
     <TextView
-        android:layout_width="300dp"
-        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
         android:text="EQUIPMENT"
         android:id="@+id/equipTitle"
         android:layout_alignParentTop="true"
@@ -23,4 +23,26 @@
         android:textSize="30sp"
         android:background="#b4bbbbbb"
         android:textColor="#000000" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/scrollView"
+        android:layout_alignTop="@+id/equipTitle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="45dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="@string/EquipmentParagraph"
+            android:id="@+id/equipParagraph"
+            android:layout_below="@+id/equipTitle"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:background="#b4bbbbbb"
+            android:textSize="20sp" />
+
+    </ScrollView>
+
 </RelativeLayout>

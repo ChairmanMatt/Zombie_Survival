@@ -23,6 +23,11 @@ public class MainMenuActivity extends AppCompatActivity {
         startActivity(equip);
     }
 
+    public void openStrategy(View view){
+        Intent strat = new Intent(this, StratActivity.class);
+        startActivity(strat);
+    }
+
     public void openNewsMedia(View view){
         Intent newsMedia = new Intent(this, NewsMediaActivity.class);
         startActivity(newsMedia);

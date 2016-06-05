@@ -1,3 +1,91 @@
 <resources>
     <string name="app_name">Zombie Apocalypse Survival</string>
+
+    <string name="title_activity_equipment">Equipment</string>
+
+    <string name="IntroductionParagraph">
+
+        The English word \"Zombie\" was first recorded in 1819, originating from the West African traditions of Haitian slaves. The first such stories involve people placed into long-term comas from various drugs, later seeming to "rise from the dead".
+        \n\n
+        <i>Frankenstein</i>, while not actually a zombie novel, influenced the genre by proposing a scientific rather than mystical origin. Lovecraft, Romero and Matheson were other authors who pioneered the zombie genre, with books like <i>I am Legend</i> and <i>The Last Man on Earth</i>.
+        \n\n
+        Romero\'s 1968 <i>Night of the Living Dead</i> was the first zombie film to achieve commercial success, spawning a huge genre, with 55 films released in just 2014.
+        \n\n
+        Today, zombies are largely depicted as hungry for human flesh or brains. One major theme of the genre is the "Zombie Apocalypse", showing the complete breakdown of society as a result of a viral zombie outbreak.
+
+    </string>
+
+
+    <string name="StrategyParagraph">
+
+        Have a set of supplies readily accessible before the apocalypse starts, no matter wherever you are.
+        \n
+        Avoiding densely populated areas is a wise plan, but going too far into the wilderness will make scavenging for supplies difficult.
+        \n
+        Be ruthless but not needlessly antagonistic. Other survivors may be more willing to help as a result.
+
+
+    </string>
+
+
+    <string name="EquipmentParagraph">
+
+        Everyone wants guns and chainsaws, but there are many more types of supplies which you will need to remain alive - and more importantly, not undead.
+        \n\n
+        To begin, you will definitely need water, preserved food and other consumables available to you when the apocalypse starts. Planning is vital for your survival.
+        \n\n
+        While shelter is nice, a tent is the last thing you should bring. It adds weight and takes too long to set up/take down.
+        \n\n
+        Basic medical supplies are also important. No sense in death due to a normal, non-zombie infection.
+        \n\n
+        A sharp-edged object (e.g. knife) will also be extremely important. Never know what you will need to cut up; zombies, food, competing survivors, etc.
+        \n\n
+        Binoculars, because generally you want to see the zombies before they see you.
+        \n\n
+        At night you will definitely need a flashlight, you do not want to get lost in the dark. Be careful when using it, however - It may draw attention to you!
+        \n\n
+        Other :
+        \n
+        \t1)Water Purifier - Do not want to drink dirty water
+        \n
+        \t2)Rope - just in case you want to setup traps or get to high places
+        \n
+        \t3)Fire Starter - Heat is important, do not need to worry about getting to cold
+
+
+    </string>
+
+
+    <string name="HotLine">Hot Lines</string>
+
+
+    <string name="hotlines">
+
+        For Emergencies: 555-6825
+        \n
+        For additional Questions: 559-4872
+        \n
+        For air support: 555-5555
+        \n\n
+        Need Supplies Fast? Call our 24/7 toll free number: 555-9887
+        \n\n
+        Want to Contact Mr. Paulson?
+        \n
+        Send a email to: brian.paulson@ww-p.org
+
+
+
+    </string>
+
+
+    <string name="meida">Coming Soon</string>
+
+    <string name="strat">Strategy </string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_introduction">Introduction</string>
+
+    <string name="title_activity_thingy">thingy</string>
+
 </resources>

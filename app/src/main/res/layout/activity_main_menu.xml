@@ -11,7 +11,7 @@
     tools:context="com.jollyrogerapps.zombieapocalypsesurvival.MainMenuActivity">
 
     <Button
-        android:layout_width="300dp"
+        android:layout_width="250dp"
         android:layout_height="45dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
@@ -20,46 +20,56 @@
         android:textSize="30sp"
         android:layout_marginTop="25dp"
         android:background="#b4bbbbbb"
-        android:gravity="center" />
+        android:gravity="center"
+        android:textColor="#000000"
+        android:elevation="5dp"
+        android:clickable="true"
+        android:onClick="openIntro" />
 
     <Button
-        android:layout_width="300dp"
+        android:layout_width="250dp"
         android:layout_height="45dp"
         android:id="@+id/equipButton"
         android:text="EQUIPMENT"
         android:textSize="30sp"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="45dp"
         android:background="#b4bbbbbb"
         android:layout_below="@+id/introButton"
         android:layout_centerHorizontal="true"
-        android:gravity="center" />
+        android:gravity="center"
+        android:textColor="#000000"
+        android:onClick="openEquipment" />
 
     <Button
-        android:layout_width="300dp"
+        android:layout_width="250dp"
         android:layout_height="45dp"
         android:id="@+id/stratButton"
         android:text="STRATEGY"
         android:textSize="30sp"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="45dp"
         android:background="#b4bbbbbb"
         android:layout_below="@+id/equipButton"
         android:layout_centerHorizontal="true"
-        android:gravity="center" />
+        android:gravity="center"
+        android:textColor="#000000"
+        android:onClick="openStrategy" />
 
     <Button
-        android:layout_width="300dp"
+        android:layout_width="250dp"
         android:layout_height="45dp"
         android:id="@+id/mediaButton"
         android:text="NEWS &amp; MEDIA"
         android:textSize="30sp"
-        android:layout_marginTop="50dp"
+        android:layout_marginTop="45dp"
         android:background="#b4bbbbbb"
         android:layout_below="@+id/stratButton"
         android:layout_centerHorizontal="true"
-        android:gravity="center" />
+        android:gravity="center"
+        android:textColor="#000000"
+        android:onClick="openNewsMedia" />
 
     <Button
-        android:layout_width="300dp"
+        android:layout_width="250dp"
         android:layout_height="45dp"
         android:id="@+id/hotlineButton"
         android:text="HOTLINES"
@@ -68,7 +78,9 @@
         android:background="#b4bbbbbb"
         android:layout_below="@+id/mediaButton"
         android:layout_centerHorizontal="true"
-        android:gravity="center" />
+        android:gravity="center"
+        android:textColor="#000000"
+        android:onClick="openHotline" />
 
 
 </RelativeLayout>

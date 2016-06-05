@@ -18,7 +18,8 @@
         <activity android:name=".IntroActivity" />
         <activity android:name=".EquipActivity" />
         <activity android:name=".NewsMediaActivity" />
-        <activity android:name=".HotlineActivity"></activity>
+        <activity android:name=".HotlineActivity" />
+        <activity android:name=".StratActivity"></activity>
     </application>
 
 </manifest>
