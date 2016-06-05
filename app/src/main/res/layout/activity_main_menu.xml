@@ -38,6 +38,7 @@
         android:layout_centerHorizontal="true"
         android:gravity="center"
         android:textColor="#000000"
+        android:clickable="true"
         android:onClick="openEquipment" />
 
     <Button
@@ -52,6 +53,7 @@
         android:layout_centerHorizontal="true"
         android:gravity="center"
         android:textColor="#000000"
+        android:clickable="true"
         android:onClick="openStrategy" />
 
     <Button
@@ -66,6 +68,7 @@
         android:layout_centerHorizontal="true"
         android:gravity="center"
         android:textColor="#000000"
+        android:clickable="true"
         android:onClick="openNewsMedia" />
 
     <Button
@@ -80,6 +83,7 @@
         android:layout_centerHorizontal="true"
         android:gravity="center"
         android:textColor="#000000"
+        android:clickable="true"
         android:onClick="openHotline" />
 
 
