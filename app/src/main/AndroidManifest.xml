@@ -4,7 +4,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/construction_zombie"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
@@ -19,7 +19,7 @@
         <activity android:name=".EquipActivity" />
         <activity android:name=".NewsMediaActivity" />
         <activity android:name=".HotlineActivity" />
-        <activity android:name=".StratActivity"></activity>
+        <activity android:name=".StratActivity" />
     </application>
 
 </manifest>
