@@ -9,4 +9,37 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.jollyrogerapps.zombieapocalypsesurvival.HotlineActivity">
 
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:text="HOTLINES"
+        android:id="@+id/introTitle"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:background="#b4bbbbbb"
+        android:textColor="#000000" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/scrollView"
+        android:layout_alignTop="@+id/equipTitle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="45dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="@string/hotlines"
+            android:id="@+id/stratParagraph"
+            android:layout_below="@+id/strat"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:background="#b4bbbbbb"
+            android:textSize="20sp" />
+    </ScrollView>
+
 </RelativeLayout>
