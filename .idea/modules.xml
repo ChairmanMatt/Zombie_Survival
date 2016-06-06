@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ZombieApocalypseSurvival.iml" filepath="$PROJECT_DIR$/ZombieApocalypseSurvival.iml" />
       <module fileurl="file://$PROJECT_DIR$/Zombie_Survival.iml" filepath="$PROJECT_DIR$/Zombie_Survival.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>

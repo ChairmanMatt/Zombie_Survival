@@ -19,10 +19,16 @@
     <string name="StrategyParagraph">
 
         Have a set of supplies readily accessible before the apocalypse starts, no matter wherever you are.
-        \n
+        \n\n
         Avoiding densely populated areas is a wise plan, but going too far into the wilderness will make scavenging for supplies difficult.
-        \n
-        Be ruthless but not needlessly antagonistic. Other survivors may be more willing to help as a result.
+        \n\n
+        Foraging for supplies at night is probably a bad idea. Fortify a position well, but be ready to move. Have someone on guard at all times.
+        \n\n
+        Be ruthless, don\'t blindly trust anyone. Other survivors could potentially be even more dangerous to you than zombies.
+        \n\n
+        If anyone who isn\'t undead (yet) looks like they\'ve been bitten or has an open wound, be mindful.
+        \n\n
+
     </string>
 
 
@@ -47,7 +53,7 @@
         \n
         \t2)Rope - Set up traps, get up tall places, maybe a quick way out.
         \n
-        \t3)Fire Starter - Heat is important, why die of hypothermia when there are zombies out.
+        \t3)Fire Starter - Heat is important, why die of hypothermia when there are hungry zombies you could feed instead?
     </string>
 
     <string name="HotlineParagraph">
@@ -65,13 +71,13 @@
         \n
         1(800)-934-6489
         \n\n
-        Need to complain about stress and <strike>finals</strike> "cumulative exams"?
+        Stress and <strike>finals</strike> "cumulative exams" turning you into a zombie?
         Contact the New York Times here:
-        biasedreporter@newyorktimes.com
+        BiasedJournalist@newyorktimes.com
         \n
-        kylespencer@newyorktimes.org
+        kylespencerjournalist@gmail.com
         \n\n
-        Want to Contact Mr. Paulson?
+        Want to Contact Mr. Paulson, for whom this project was made?
         \n
         Send a email to: brian.paulson@ww-p.org
         \n
