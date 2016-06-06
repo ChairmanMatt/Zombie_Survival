@@ -23,13 +23,10 @@
         Avoiding densely populated areas is a wise plan, but going too far into the wilderness will make scavenging for supplies difficult.
         \n
         Be ruthless but not needlessly antagonistic. Other survivors may be more willing to help as a result.
-
-
     </string>
 
 
     <string name="EquipmentParagraph">
-
         Everyone wants guns and chainsaws, but there are many more types of supplies which you will need to remain alive - and more importantly, not undead.
         \n\n
         To begin, you will definitely need water, preserved food and other consumables available to you when the apocalypse starts. Planning is vital for your survival.
@@ -46,32 +43,41 @@
         \n\n
         Other :
         \n
-        \t1)Water Purifier - Cholera? Ain't nobody got time for that.
+        \t1)Water Purifier - Cholera? Ain\'t nobody got time for that.
         \n
         \t2)Rope - Set up traps, get up tall places, maybe a quick way out.
         \n
         \t3)Fire Starter - Heat is important, why die of hypothermia when there are zombies out.
-
-
     </string>
 
-
-    <string name="HotLine">Hot Lines</string>
-
-
-    <string name="hotlines">
-
-        For Emergencies: 555-6825
-        \n
-        For additional Questions: 559-4872
-        \n
-        For air support: 555-5555
+    <string name="HotlineParagraph">
+        Please report anything zombie-related you see.
         \n\n
-        Need Supplies Fast? Call our 24/7 toll free number: 555-9887
+        <b>See Something, Say Something.</b>
+        \n\n
+        For Emergencies, please hang up and dial 911.
+        \n\n
+        Windows 10 forcibly installed on your Windows 7 computer?
+        \n
+        1(800)-642-7676
+        \n\n
+        Want to <strike>waste your time</strike> complain about new surcharges on your Comcast bill?
+        \n
+        1(800)-934-6489
+        \n\n
+        Need to complain about stress and <strike>finals</strike> "cumulative exams"?
+        Contact the New York Times here:
+        biasedreporter@newyorktimes.com
+        \n
+        kylespencer@newyorktimes.org
         \n\n
         Want to Contact Mr. Paulson?
         \n
         Send a email to: brian.paulson@ww-p.org
+        \n
+        OR
+        \n
+        brian.paulson@wwprsd.org
 
 
 
